@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erintustin
 - 👀 I’m interested in app development and coding accessibly
-- 🌱 I’m currently learning react and react native
+- 🌱 I specialize in mobile-first and and responsive design with a focus on accessiblity. 
 - 💞️ I’m looking to collaborate on projects that have a positive impact on the lives of disabled people
 - 📫 How to reach me ... erintustin@gmail.com
 
